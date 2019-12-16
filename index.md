@@ -1,7 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Rathnavel Pages
 
-You can use the [editor on GitHub](https://github.com/rathnavelkarthi/htmltest/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
+Hi my name is rathnavel and i am studying in vels.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
